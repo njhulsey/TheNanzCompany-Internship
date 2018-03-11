@@ -6,4 +6,5 @@ WHAT I LEARNED:
 - Solidworks
 - Manufacturing proccess
 - How to use Lathes and Mills
+- 3D printing (FormLab) 
 - All about door hardware
